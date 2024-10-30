@@ -10,7 +10,7 @@ My name is Manoil Stefan, and I'm a second-year student at Moldova State Univers
   <a href="https://www.instagram.com/stefan.manoil/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="mailto:example@example.com" target="_blank">
+  <a href="mailto:manoilstefan302@gmail.com.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://t.me/Stefan_Manoil" target="_blank">
